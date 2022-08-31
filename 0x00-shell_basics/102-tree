@@ -1,2 +1,1 @@
-#!/bin/bash
-mkdir -p welcome/{to,to/holberton}
+#!/bin/bashmkdir -p welcome/{to,to/school}
